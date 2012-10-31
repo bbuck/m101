@@ -9,7 +9,7 @@ coding is! Just enjoy.
 
 # Course
 
-The course this is for can be found [here](http://education.mongodb.com).
+The course this is for can be found [here](http://education.10gen.com).
 
 # License
 
